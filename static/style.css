@@ -1,0 +1,32 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #080808;
+color: #f4f2f2;
+margin: 0;
+padding: 0;
+}
+header{
+background-color: #bb3bf6;
+color:rgb(255, 255, 255);
+padding: 1.5em;
+text-align:center;
+}
+main{
+padding: 2em;
+max-width: 800px;
+margin:auto;
+}
+section{
+margin-bottom: 2em;
+}
+footer{
+background-color: #bb3bf6;
+color:rgb(229, 222, 222);
+text-align: center;
+padding: 1em;
+margin-top: 2em;
+}
+img {
+    width: 800px;
+    border-radius: 10px;
+}
